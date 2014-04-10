@@ -153,7 +153,11 @@
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: rgb(137, 244, 141);
+	background: linear-gradient(left , rgb(250, 213, 12) 6% , rgb(154, 209, 70) 21% , rgb(42, 202, 48) 51%);
+background: -o-linear-gradient(left , rgb(250, 213, 12) 6% , rgb(154, 209, 70) 21% , rgb(42, 202, 48) 51%);
+background: -ms-linear-gradient(left , rgb(250, 213, 12) 6% , rgb(154, 209, 70) 21% , rgb(42, 202, 48) 51%);
+background: -moz-linear-gradient(left , rgb(250, 213, 12) 6% , rgb(154, 209, 70) 21% , rgb(42, 202, 48) 51%);
+background: -webkit-linear-gradient(left , rgb(250, 213, 12) 6% , rgb(154, 209, 70) 21% , rgb(42, 202, 48) 51%);
 }
 
 
